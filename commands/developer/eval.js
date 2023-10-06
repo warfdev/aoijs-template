@@ -13,7 +13,7 @@ module.exports = {
   $endelseif
   $endif
   
-  $onlyIf[$message[1]!=;:x: örnek kullanım: \`.e <kod>\`]
+  $onlyIf[$message[1]!=;:x: örnek kullanım: \`.e <aoi/djs> <kod>\`]
   $onlyForIds[$clientOwnerIDs[\;];:x: Kullanamazsın.]
 `
 }
