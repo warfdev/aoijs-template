@@ -1,4 +1,5 @@
 @echo off
+title RUNCLIENT aoi.js - zmochas
 color a
 echo CLIENT BY (DISCORD) zmochas / ksvnwharf
 echo BOTU BASLATMAK ICIN HERHANGI BIR DUGMEYE BAS
