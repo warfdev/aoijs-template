@@ -1,4 +1,5 @@
 // runclient for android / termux
+// If you want to open the bot through this file, go to the 'package.json' file and change the part from "main": "index.js" to "main": "runclient.js".
 
 const { execSync } = require('child_process');
 const config = require("./config.js");
