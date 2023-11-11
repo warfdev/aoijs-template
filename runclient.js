@@ -1,4 +1,4 @@
-// runclient for android
+// runclient for android / termux
 
 const { execSync } = require('child_process');
 const config = require("./config.js");
