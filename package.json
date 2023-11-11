@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "aoi.js": "^6.5.6"
+    "aoi.js": "^6.5.6",
+    "chalk": "^4.1.2"
   }
 }
